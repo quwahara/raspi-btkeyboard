@@ -1,4 +1,4 @@
 #!/bin/bash
 set -x
 
-python3 kb_client.py
+python3 keyboard/kb_client.py
